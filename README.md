@@ -27,6 +27,11 @@ Data Scientist at Auto Trader UK.
 
 ---
 
+## Media
+
+1. Auto Trader [blog](https://engineering.autotrader.co.uk/2024/05/31/image-labels.html) post on image labelling tool.
+2. University of Manchester [post](https://www.manchester.ac.uk/about/news/manchester-scientists-launch-new-interactive-tool-for-agricultural-water-management-and-climate-risk-assessment/) on AquaPlan app
+
 ## Open-source Projects
 
 1. [AquaCrop-OSPy](https://github.com/aquacropos/aquacrop): Python implementation of AquaCrop crop-water model developed by UN-FAO
